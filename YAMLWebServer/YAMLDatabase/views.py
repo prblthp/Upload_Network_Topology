@@ -5,8 +5,6 @@ from django.contrib import messages
 from YAMLDatabase.forms import yamlform
 from .forms import *
 from django.forms import modelformset_factory
-import YAMLOutput
-from YAMLOutput import createYAML
 import sys
 import yaml
 from django.db import IntegrityError
