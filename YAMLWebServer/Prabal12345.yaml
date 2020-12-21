@@ -1,0 +1,7 @@
+all:
+  sites:
+    hosts:
+    - {device_type: ios, host: dkahk, hostname: hfkakl, password: hdallha, username: dkjaklh}
+    - {device_type: hdafhkla, host: kdahk, hostname: nda, password: hdka, username: hdkakk}
+    name: Prabal12345
+  vars: {password: sitlab123!, username: root}

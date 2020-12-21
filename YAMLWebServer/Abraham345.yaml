@@ -1,0 +1,6 @@
+all:
+  sites:
+    hosts:
+    - {device_type: ios, host: jdla;l, hostname: dlkaj, password: jd;la;l, username: djlal;}
+    name: Abraham345
+  vars: {password: sitlab123!, username: root}

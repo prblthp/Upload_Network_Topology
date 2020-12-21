@@ -1,0 +1,5 @@
+all:
+  sites:
+    hosts: []
+    name: Prajwal1234
+  vars: {password: sitlab123!, username: root}

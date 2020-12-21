@@ -1,0 +1,7 @@
+all:
+  sites:
+    hosts:
+    - {device_type: jdl;alda, host: jdlkalk;, hostname: kldjaklalkj, password: jdla;,
+      username: jdall;j}
+    name: Prabal123456
+  vars: {password: sitlab123!, username: root}

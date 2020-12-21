@@ -1,0 +1,6 @@
+all:
+  sites:
+    hosts:
+    - {device_type: dajajf, host: hdkak, hostname: jksaklk, password: '', username: ''}
+    name: Zara1234
+  vars: {password: sitlab123!, username: root}
